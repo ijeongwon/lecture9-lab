@@ -1,0 +1,15 @@
+#OS files
+.DS_Store
+Thubs.db
+#IDE
+.vscode/
+.idea/
+#Env & secrets
+.env
+*.key
+*.pem
+secrets.txt
+pw.txt
+#Build files
+*.class
+*.o
